@@ -1,5 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
+I'm João Albuquerque, an Automation and Control Engineer foucused on Embedded Systems. You will find repos in Java, MATLAB, Python, and C.
+
+Take a look at my [University project](https://github.com/Xuxxus/CodigoKalman), were me and my team developed an application capable of changing physiotherapy.
+
+I'm always looking to colaborate on new projects and stuff. Reach out if you need some help ;)
+
+May the force be with you! 
 <!--
 **Joao-Alb/Joao-Alb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
