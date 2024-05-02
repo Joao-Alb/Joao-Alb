@@ -8,7 +8,7 @@ I'm always looking to colaborate on new projects and stuff. Reach out if you nee
 
 May the force be with you!
 
-[<img src="{[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)}" />](https://www.linkedin.com/in/joao-pedro-albuquerque/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-albuquerque/) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/joaoAlbuquerque/)
 <!--
 **Joao-Alb/Joao-Alb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
