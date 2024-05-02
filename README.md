@@ -6,7 +6,9 @@ Take a look at my [University project](https://github.com/Xuxxus/CodigoKalman), 
 
 I'm always looking to colaborate on new projects and stuff. Reach out if you need some help ;)
 
-May the force be with you! 
+May the force be with you!
+
+[<img src="{[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)}" />](https://www.linkedin.com/in/joao-pedro-albuquerque/)
 <!--
 **Joao-Alb/Joao-Alb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
