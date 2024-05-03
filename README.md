@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm João Albuquerque, an Automation and Control Engineer foucused on Embedded Systems. You will find repos in Java, MATLAB, Python, and C.
+I'm João Albuquerque, an Automation and Control Engineer foucused on Embedded Systems. You will find repos in Java, MATLAB, Python, and C/C++.
 
 Take a look at my [University project](https://github.com/Xuxxus/CodigoKalman), were me and my team developed an application capable of changing physiotherapy.
 
