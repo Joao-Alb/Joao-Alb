@@ -1,25 +1,8 @@
-## Hi there 👋
+## Hello there
 
-I'm João Albuquerque, an Automation and Control Engineer foucused on Embedded Systems, AI and ADAS.
+I'm João Albuquerque, an Automation and Control Engineer who loves building smart things — from embedded systems to AI-powered tools.
 
-Take a look at my [University project](https://github.com/Xuxxus/CodigoKalman), were me and my team developed an application capable of changing physiotherapy.
+I’ve been diving deep into AI and ADAS, and also developing an agent that helps small business owners understand their data without needing a data team.
 
-I'm always looking to colaborate on new projects and stuff. Reach out if you need some help ;)
-
-May the force be with you!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-albuquerque/) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/joaoAlbuquerque/)
-<!--
-**Joao-Alb/Joao-Alb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m also into robotics, data analysis, and anything that mixes tech + creativity.
+If you’ve got a project, an idea, or just want to talk I’m always up for a chat.
