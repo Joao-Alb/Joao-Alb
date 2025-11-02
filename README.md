@@ -1,4 +1,4 @@
-## Hello there
+## Hello there!
 
 I'm João Albuquerque, an Automation and Control Engineer who loves building smart things — from embedded systems to AI-powered tools.
 
